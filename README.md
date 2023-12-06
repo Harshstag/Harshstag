@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![MasterHead](./your-header-image-name.png)
 
 
 <h1 align="center">Hi 👋, I'm Harsh Singh</h1>
