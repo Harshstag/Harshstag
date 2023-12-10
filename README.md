@@ -1,13 +1,7 @@
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 <h1 align="center">Hi 👋, I'm Harsh Singh</h1>
 <h3 align="center">Same old kid with a dream</h3>
-
-
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 
@@ -26,9 +20,6 @@
 
 
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 
 
 
@@ -39,15 +30,9 @@
 <a href="https://instagram.com/harshstag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshstag" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshstag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshstag" height="30" width="40" /></a>
 </p>
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 
-
-<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif"></p>
 
 
 
@@ -55,7 +40,7 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=harshstag&" alt="harshstag" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshstag&show_icons=true&locale=en&layout=compact" alt="harshstag" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshstag&show_icons=true&locale=en&layout=compact" alt="harshstag" /></p>
 
 
 
